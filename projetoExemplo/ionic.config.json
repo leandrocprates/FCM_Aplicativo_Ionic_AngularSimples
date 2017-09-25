@@ -1,0 +1,9 @@
+{
+  "name": "projetoExemplo",
+  "app_id": "",
+  "type": "ionic1",
+  "integrations": {
+    "cordova": {},
+    "gulp": {}
+  }
+}
