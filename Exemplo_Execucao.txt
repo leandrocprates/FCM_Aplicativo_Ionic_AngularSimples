@@ -1,0 +1,29 @@
+
+https://fcm.googleapis.com/fcm/send
+
+
+Content-Type : application/json 
+
+Authorization :   key=AAAAGYw4hd8:APA91bG_vtOqwjhgXCbtwLltqUJuWSIF_H4ScHybfNhWoJ5JNxEnLKogPwyzfpHZidfn4H95jO88ViSaI7mgJLnm7K9fqrch8Ma-R-pbRaS1slspAum7UmBsa5ljbxJc1EUtDNWRt0CN
+
+
+Body : 
+
+{ 
+  "notification": {
+    "title": "Portugal vs. Denmark44485",
+    "body": "5 to 1",
+	"icon": "firebase-logo.png",
+    "click_action": "http://localhost:8081"    
+  },
+  "to" : "dO4gJ49RmZc:APA91bHeEetvskxSUbC0QpVBm--EzDnfTB_OWAg2c5RxkPKiYdkFnqTx12bjqLxs6dIsZV-7vWET_QBajZRMx-IdGRlWMUy25SHchwF8Sx7Ss4oTqemOuMTt8ZtV6xQeEKxl9L5RGlan"
+}
+
+
+
+Token : 
+
+dO4gJ49RmZc:APA91bHeEetvskxSUbC0QpVBm--EzDnfTB_OWAg2c5RxkPKiYdkFnqTx12bjqLxs6dIsZV-7vWET_QBajZRMx-IdGRlWMUy25SHchwF8Sx7Ss4oTqemOuMTt8ZtV6xQeEKxl9L5RGlan
+
+
+
