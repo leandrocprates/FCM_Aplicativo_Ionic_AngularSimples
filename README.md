@@ -87,5 +87,16 @@ Authorization : key=AAAAGYw4hd8:APA91bG_vtOqwjhgXCbtwLltqUJuWSIF_H4ScHybfNhWoJ5J
 ```
 
 
+3. Executar projeto 
+
+	a. ionic cordova plugin add cordova-plugin-fcm
+
+	b. npm install -g bower
+
+	c. bower install jquery
+
+	d. bower install ngCordova
+
+	e. ionic cordova run android 
 
 
