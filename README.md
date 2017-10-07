@@ -6,17 +6,18 @@
 O link a seguir segue o plugin utilizado no projeto que deve ser adicionado  [FCM Plugin](https://github.com/fechanique/cordova-plugin-fcm)
 
 
+**Enviar Notificacao pela classe Java ou PostMan direto para o FCM Google:**
 
 Modelo json de envio de mensagem 
 
-
-```json
 URL : https://fcm.googleapis.com/fcm/send 
 
 Content-Type : application/json 
 
 Authorization : key=AAAAGYw4hd8:APA91bG_vtOqwjhgXCbtwLltqUJuWSIF_H4ScHybfNhWoJ5JNxEnLKogPwyzfpHZidfn4H95jO88ViSaI7mgJLnm7K9fqrch8Ma-R-pbRaS1slspAum7UmBsa5ljbxJc1EUtDNWRt0CN
 
+
+```json
 
 {
   "notification":{
