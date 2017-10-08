@@ -42,7 +42,7 @@ Authorization : key=AAAAGYw4hd8:APA91bG_vtOqwjhgXCbtwLltqUJuWSIF_H4ScHybfNhWoJ5J
 
 ```
 
-2. Recebendo mensagens no javascript 
+2. Recebendo mensagens no javascript **index.html**
 
 
 - Caso a mensagem venha quando o aplicativo esta em background uma notificação é criada e adicionada no painel de notificações . 
@@ -104,4 +104,3 @@ Authorization : key=AAAAGYw4hd8:APA91bG_vtOqwjhgXCbtwLltqUJuWSIF_H4ScHybfNhWoJ5J
 
 
 
-ghjghjgj
