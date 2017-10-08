@@ -102,3 +102,6 @@ Authorization : key=AAAAGYw4hd8:APA91bG_vtOqwjhgXCbtwLltqUJuWSIF_H4ScHybfNhWoJ5J
 	f. ionic cordova run android 
 
 
+
+
+ghjghjgj
