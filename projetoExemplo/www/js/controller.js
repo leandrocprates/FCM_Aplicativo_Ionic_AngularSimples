@@ -23,6 +23,11 @@
 		alert ('Antes do FCM Plugin ');
 			
 			
+		document.addEventListener("deviceready", setup());	
+			
+				
+		function setup(){
+			
 				
 		FCMPlugin.getToken(
 		  function (token) {
@@ -58,7 +63,8 @@
 		);
 
 
-
+		}
+		
 
 		});
 	});		 
